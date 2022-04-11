@@ -7,7 +7,7 @@ The repository is comprised of:
 On the table below are the five main types of resources, their relation to the [`kb:Representation` subclass](https://docs-api.dasch.swiss/02-knora-ontologies/knora-base/#representations) as well as the template in JSON-LD.
 | **Type**          | **`kb:Representation` subclass** | **Template** |
 |-------------------|----------------------------------|--------------|
-| Single image      | `StillImageRepresentation`         |              |
+| Single image      | `StillImageRepresentation`         |      [boilerplate 1](boilerplates/boilerplate01.json)        |
 | Series of images  | `StillImageRepresentation`         |              |
 | Audio             | `AudioRepresentation`              |              |
 | Video             | `MovingImageRepresentation`        |              |
