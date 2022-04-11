@@ -104,7 +104,7 @@
   ],
   "seeAlso": [
     {
-      "id": "https://dasch.swiss/iiif/082E/eIQE9FzxSCGDznVe923oJA",
+      "id": "http://localhost:4200/api/082E/eIQE9FzxSCGDznVe923oJA",
       "type": "Dataset",
       "label": {
         "en": [
@@ -164,7 +164,7 @@
       ],
       "thumbnail": [
         {
-          "id": "https://pia-iiif.dhlab.unibas.ch/SGV_12/SGV_12N_00001.jp2/full/80,/0/default.jpg",
+          "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/full/80,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
@@ -187,8 +187,8 @@
         "SGV_12N_00001"
       ]
     },
-      "height": 4252,
-      "width": 4190,
+      "height": 4032,
+      "width": 3024,
       "items": [
         {
           "id": "https://dasch.swiss/iiif/resource/082E/eIQE9FzxSCGDznVe923oJ/canvas/p1/1",
@@ -202,8 +202,8 @@
                 "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 4252,
-                "width": 4190,
+                "height": 4032,
+                "width": 3024,
                 "service": [
                   {
                     "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/",
