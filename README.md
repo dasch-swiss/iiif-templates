@@ -29,56 +29,43 @@ On the table below are the main types of resources that could be compliant with 
 
 _The `Canvas` represents an individual page or view and acts as a central point for assembling the different content resources that make up the display._
 
-Here is a detailed view of the [first boilerplate](https://github.com/dasch-swiss/iiif-templates/blob/main/boilerplates/boilerplate01.json#L226):
+Here is a detailed view of the [first boilerplate](boilerplates/boilerplate01.json#L181):
 
 ```
     {
-      "id": "https://pia-something.ch/iiif/boilerplate01/canvas/p1",
+      "id": "https://dasch.swiss/iiif/resource/082E/eIQE9FzxSCGDznVe923oJ/canvas/p1",
       "type": "Canvas",
       "label": {
-    "none": [
-      "SGV_12N_00001"
-    ]
-  },
-      "height": 4190,
-      "width": 4252,
+      "none": [
+        "SGV_12N_00001"
+      ]
+    },
+      "height": 4032,
+      "width": 3024,
       "items": [
         {
-          "id": "https://pia-iiif.dhlab.unibas.ch/server/SGV_12N_00001/canvas/p1",
-          "type": "Canvas",
-          "label": {
-          "none": [
-            "SGV_12N_00001"
-          ]
-        },
-          "height": 4252,
-          "width": 4190,
+          "id": "https://dasch.swiss/iiif/resource/082E/eIQE9FzxSCGDznVe923oJ/canvas/p1/1",
+          "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://pia-iiif.dhlab.unibas.ch/server/SGV_12N_00001/canvas/p1/1",
-              "type": "AnnotationPage",
-              "items": [
-                {
-                  "id": "https://pia-iiif.dhlab.unibas.ch/server/SGV_12N_00001/annotation/p0001-image",
-                  "type": "Annotation",
-                  "motivation": "painting",
-                  "body": {
-                    "id": "https://pia-iiif.dhlab.unibas.ch/SGV_12/SGV_12N_00001.jp2/full/max/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 4252,
-                    "width": 4190,
-                    "service": [
-                      {
-                        "id": "https://pia-iiif.dhlab.unibas.ch/SGV_12/SGV_12N_00001.jp2",
-                        "type": "ImageService3",
-                        "profile": "level2"
-                      }
-                    ]
-                  },
-                  "target": "https://pia-iiif.dhlab.unibas.ch/server/SGV_12N_00001/canvas/p1/1"
-                }
-              ]
+              "id": "https://dasch.swiss/iiif/resource/082E/eIQE9FzxSCGDznVe923oJ/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": [
+                  {
+                    "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://dasch.swiss/iiif/resource/082E/eIQE9FzxSCGDznVe923oJ/canvas/p1/1"
             }
           ]
         }
