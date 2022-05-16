@@ -111,7 +111,7 @@
           "DaSCH Service Platform (DSP)"
         ]
       },
-      "format": "application/ld+json"
+      "format": "text/html"
     }
   ],
   "provider": [
