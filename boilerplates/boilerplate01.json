@@ -139,20 +139,12 @@
       ],
       "thumbnail": [
         {
-<<<<<<< HEAD
           "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx/full/80,/0/default.jpg",
-=======
-          "id": "http://0.0.0.0:1024/082E/3EoVnXaIecd-FbFsBPo1Z7Y.jp2/full/80,/0/default.jpg",
->>>>>>> 7930b54ef56bac551406d6181119a5b1f2cf58bf
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-<<<<<<< HEAD
               "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx/info.json",
-=======
-              "id": "http://0.0.0.0:1024/082E/3EoVnXaIecd-FbFsBPo1Z7Y.jp2/info.json",
->>>>>>> 7930b54ef56bac551406d6181119a5b1f2cf58bf
               "type": "ImageService3",
               "profile": "level2"
             }
