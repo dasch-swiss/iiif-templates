@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://dasch.swiss/iiif/resource/082E/eIQE9FzxSCGDznVe923oJA/manifest.json",
+  "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -169,7 +169,7 @@
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://pia-iiif.dhlab.unibas.ch/SGV_12/SGV_12N_00001.jp2",
+              "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/info.json",
               "type": "ImageService3",
               "profile": "level2"
             }
