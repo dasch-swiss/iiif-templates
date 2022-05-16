@@ -164,12 +164,12 @@
       ],
       "thumbnail": [
         {
-          "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/full/80,/0/default.jpg",
+          "id": "http://0.0.0.0:1024/082E/3EoVnXaIecd-FbFsBPo1Z7Y.jp2/full/80,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/info.json",
+              "id": "http://0.0.0.0:1024/082E/3EoVnXaIecd-FbFsBPo1Z7Y.jp2/info.json",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -199,14 +199,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/full/max/0/default.jpg",
+                "id": "http://0.0.0.0:1024/082E/3EoVnXaIecd-FbFsBPo1Z7Y.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 4032,
                 "width": 3024,
                 "service": [
                   {
-                    "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/",
+                    "id": "http://0.0.0.0:1024/082E/3EoVnXaIecd-FbFsBPo1Z7Y.jp2",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
