@@ -29,43 +29,43 @@ On the table below are the main types of resources that could be compliant with 
 
 _The `Canvas` represents an individual page or view and acts as a central point for assembling the different content resources that make up the display._
 
-Here is a detailed view of the [first boilerplate](boilerplates/boilerplate01.json#L181):
+Here is a detailed view of the [first boilerplate](boilerplates/boilerplate01.json#L170):
 
 ```
     {
-      "id": "https://dasch.swiss/iiif/resource/082E/eIQE9FzxSCGDznVe923oJ/canvas/p1",
+      "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/canvas/p1",
       "type": "Canvas",
       "label": {
       "none": [
-        "SGV_12N_00001"
+        "1383234"
       ]
     },
       "height": 4032,
       "width": 3024,
       "items": [
         {
-          "id": "https://dasch.swiss/iiif/resource/082E/eIQE9FzxSCGDznVe923oJ/canvas/p1/1",
+          "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/canvas/p1/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://dasch.swiss/iiif/resource/082E/eIQE9FzxSCGDznVe923oJ/p0001-image",
+              "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/p0001-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/full/max/0/default.jpg",
+                "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 4032,
-                "width": 3024,
+                "height": 3276,
+                "width": 2240,
                 "service": [
                   {
-                    "id": "http://0.0.0.0:1024/082E/GHCvX6u4Wk3-Fh0BefHGlzx.jp2/",
+                    "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx/",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ]
               },
-              "target": "https://dasch.swiss/iiif/resource/082E/eIQE9FzxSCGDznVe923oJ/canvas/p1/1"
+              "target": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/canvas/p1/1"
             }
           ]
         }
