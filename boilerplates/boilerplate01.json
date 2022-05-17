@@ -104,7 +104,7 @@
   ],
   "seeAlso": [
     {
-      "id": "https://admin.dasch.swiss/resource/0801/SRj_ydfRQTqkQnWnwHlodw",
+      "id": "https://admin.dasch.swiss/resource/0801/qX28KUMYTHClv28ByujgeQ",
       "type": "Text",
       "label": {
         "en": [
@@ -151,12 +151,12 @@
       ],
       "thumbnail": [
         {
-          "id": "https://iiif.dasch.swiss:443/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/full/80,/0/default.jpg",
+          "id": "https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/full/80,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": " https://iiif.dasch.swiss:443/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx",
+              "id": " https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -167,7 +167,7 @@
   "navDate": "1706-11-30T00:00:00+00:00",
   "items": [
     {
-      "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/canvas/p1",
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02/canvas/p1",
       "type": "Canvas",
       "label": {
       "none": [
@@ -178,28 +178,28 @@
       "width": 2440,
       "items": [
         {
-          "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/canvas/p1/1",
+          "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02/canvas/p1/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/p0001-image",
+              "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02/p0001-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.dasch.swiss:443/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/full/max/0/default.jpg",
+                "id": "https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3276,
                 "width": 2440,
                 "service": [
                   {
-                    "id": "https://iiif.dasch.swiss:443/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/",
+                    "id": "https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ]
               },
-              "target": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/canvas/p1/1"
+              "target": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02/canvas/p1/1"
             }
           ]
         }
