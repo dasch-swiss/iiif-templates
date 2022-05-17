@@ -23,7 +23,7 @@
         ]
       },
       "value": {
-        "de": [
+        "en": [
           "1383234.tif"
         ]
       }
@@ -35,7 +35,7 @@
         ]
       },
       "value": {
-        "de": [
+        "en": [
           "1706-11-30_Verzaglia_Giuseppe-Bernoulli_Johann_I"
         ]
       }
@@ -54,24 +54,24 @@
     },
     {
       "label": {
-        "de": [
+        "en": [
           "Author"
         ]
       },
       "value": {
-        "de": [
+        "en": [
           "Verzaglia"
         ]
       }
     },
     {
       "label": {
-        "de": [
+        "en": [
           "Date"
         ]
       },
       "value": {
-        "de": [
+        "en": [
           "30.11.1706"
         ]
       }
@@ -80,7 +80,7 @@
   "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
   "requiredStatement": {
     "label": {
-      "de": [
+      "en": [
         "Copyright"
       ]
     },
@@ -119,8 +119,8 @@
       "id": "https://d-nb.info/gnd/1175470503",
       "type": "Agent",
       "label": {
-        "de": [
-          "Swiss National Data & Service Center for the Humanities"
+        "en": [
+          "DaSCH, Swiss National Data & Service Center for the Humanities"
         ]
       },
       "homepage": [
