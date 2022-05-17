@@ -4,15 +4,15 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "First page of a letter to Bernoulli"
+      "Letter to Bernoulli"
     ]
   },
   "summary": {
     "en": [
-      "DaSCH IIIF Resource Template - Boilerplate 1: IIIF Manifest with a single image"
+      "DaSCH IIIF Resource Template - Boilerplate 1: IIIF Manifest with a series of images"
     ],
     "de": [
-      "DaSCH IIIF Resource Template - Boilerplate 1: IIIF Manifest mit Einzelbild"
+      "DaSCH IIIF Resource Template - Boilerplate 1: IIIF Manifest mit einer Serie von Bildern"
     ]
   },
   "metadata": [
@@ -156,7 +156,7 @@
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx/info.json",
+              "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx",
               "type": "ImageService3",
               "profile": "level2"
             }
