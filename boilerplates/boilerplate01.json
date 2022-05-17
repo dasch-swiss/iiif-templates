@@ -167,7 +167,7 @@
   "navDate": "1706-11-30T00:00:00+00:00",
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02/canvas/p1",
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01/canvas/p1",
       "type": "Canvas",
       "label": {
       "none": [
@@ -178,11 +178,11 @@
       "width": 2440,
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02/canvas/p1/1",
+          "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01/canvas/p1/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02/p0001-image",
+              "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01/p0001-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -199,7 +199,7 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02/canvas/p1/1"
+              "target": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01/canvas/p1/1"
             }
           ]
         }
