@@ -33,39 +33,39 @@ Here is a detailed view of the [first boilerplate](boilerplates/boilerplate01.js
 
 ```
     {
-      "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/canvas/p1",
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01/canvas/p1",
       "type": "Canvas",
       "label": {
       "none": [
-        "1383234"
+        "1383232"
       ]
     },
-      "height": 4032,
-      "width": 3024,
+      "height": 3276,
+      "width": 2440,
       "items": [
         {
-          "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/canvas/p1/1",
+          "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01/canvas/p1/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/p0001-image",
+              "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01/p0001-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx/full/max/0/default.jpg",
+                "id": "https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3276,
-                "width": 2240,
+                "width": 2440,
                 "service": [
                   {
-                    "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx/",
+                    "id": "https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ]
               },
-              "target": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/canvas/p1/1"
+              "target": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01/canvas/p1/1"
             }
           ]
         }
