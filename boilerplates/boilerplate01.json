@@ -24,7 +24,7 @@
       },
       "value": {
         "en": [
-          "1383234.tif"
+          "1383232.tif"
         ]
       }
     },
@@ -92,7 +92,7 @@
   },
   "homepage": [
     {
-      "id": "https://ark.dasch.swiss/ark:/72163/1/0801/===XNkZ0S4WgNxy_Apx7kw=.20191030T103447111Z",
+      "id": "https://ark.dasch.swiss/ark:/72163/1/0801/qX28KUMYTHClv28ByujgeQ7.20191030T103445476Z",
       "type": "Text",
       "label": {
         "en": [
@@ -104,7 +104,7 @@
   ],
   "seeAlso": [
     {
-      "id": "https://admin.dasch.swiss/resource/0801/---XNkZ0S4WgNxy_Apx7kw",
+      "id": "https://admin.dasch.swiss/resource/0801/SRj_ydfRQTqkQnWnwHlodw",
       "type": "Text",
       "label": {
         "en": [
@@ -151,12 +151,12 @@
       ],
       "thumbnail": [
         {
-          "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx/full/80,/0/default.jpg",
+          "id": "https://iiif.dasch.swiss:443/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/full/80,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx",
+              "id": " https://iiif.dasch.swiss:443/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -171,11 +171,11 @@
       "type": "Canvas",
       "label": {
       "none": [
-        "1383234"
+        "1383232"
       ]
     },
-      "height": 4032,
-      "width": 3024,
+      "height": 3276,
+      "width": 2440,
       "items": [
         {
           "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU/canvas/p1/1",
@@ -186,14 +186,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx/full/max/0/default.jpg",
+                "id": "https://iiif.dasch.swiss:443/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3276,
-                "width": 2240,
+                "width": 2440,
                 "service": [
                   {
-                    "id": "https://iiif.dasch.swiss/0801/DxeENcvqYzJ-GPOelprhbJU.jpx/",
+                    "id": "https://iiif.dasch.swiss:443/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
