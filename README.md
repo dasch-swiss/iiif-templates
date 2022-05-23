@@ -9,7 +9,7 @@ On the table below are the main types of resources that could be compliant with 
 |---------------------------|----------------------------------|-------------------|--------------------------------------------------|
 | Single image              | `StillImageRepresentation`       | Manifest          | [boilerplate 1](boilerplates/boilerplate01.json) |
 | Series of images          | `StillImageRepresentation`       | Manifest|          [boilerplate 2](boilerplates/boilerplate02.json)          |                                                  |
-| Audio                     | `AudioRepresentation`            | Manifest          |                                                  |
+| Audio                     | `AudioRepresentation`            | Manifest | [boilerplate 3](boilerplates/boilerplate03.json)           |                                                  |
 | Video                     | `MovingImageRepresentation`      | Manifest          |                                                  |
 | 3D representation         | `DDDrepresentation`              | Manifest          |                                                  |
 | Collection of Manifests   | -                                | Collection        |                                                  |

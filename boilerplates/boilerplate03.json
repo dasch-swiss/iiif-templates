@@ -1,0 +1,188 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate03.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Groove-t-Gang's The Hangman"
+    ]
+  },
+  "summary": {
+    "en": [
+      "DaSCH IIIF Resource Template - Boilerplate 3: IIIF Manifest with sound"
+    ],
+    "de": [
+      "DaSCH IIIF Resource Template - Boilerplate 3: IIIF Manifest mit Ton"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Title"
+        ]
+      },
+      "value": {
+        "en": [
+          "The Hangman"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Groove-T-Gang"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "April 2005"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "A song composed and played by 'Groove-T-Gang', the Basle rock band"
+        ]
+      }
+    }
+  ],
+  "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Copyright"
+      ]
+    },
+    "value": {
+      "en": [
+        "Grrove-T-Gang - CC-BY-NC-ND"
+      ]
+    }
+  },
+  "homepage": [
+    {
+      "id": "https://ark.dasch.swiss/ark:/72163/1/0807/aLdgplNoShSvJaFvDiJ8FgC.20211112T125440020226Z",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Dictionary of Music in Switzerland (MLS) Homepage"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://admin.dasch.swiss/resource/0807/aLdgplNoShSvJaFvDiJ8Fg",
+      "type": "Text",
+      "label": {
+        "en": [
+          "DaSCH Service Platform (DSP)"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "provider": [
+    {
+      "id": "https://d-nb.info/gnd/1175470503",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "DaSCH, Swiss National Data & Service Center for the Humanities"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://mls.0807.dasch.swiss/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "The Dictionary of Music in Switzerland (MLS) is the interdisciplinary online encyclopedia on Swiss music history. music history. It sees itself as a central information platform on the musical life in Switzerland and addresses scholars and students as well as interested members of the general public. general public. The MLS not only provides articles on personalities in Swiss music history, but also deals with places, institutions and objects from all areas of music history. but also deals with places, institutions and objects from all areas of musical life."
+            ]
+          },
+          "format": "text/html",
+          "language": [
+            "en"
+          ]
+        }
+      ]
+    }
+  ], 
+  "logo": [
+        {
+          "id": "https://static.wixstatic.com/media/b4d1f5_8a7169a0d69d4df1b6b394a4819bd7ad~mv2.png/v1/fill/w_348,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DaSCH%20Logo%20mediumblue.png",
+          "type": "Image",
+          "format": "image/png",
+          "height": 110,
+          "width": 348
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/full/80,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": " https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+  "viewingDirection": "left-to-right",
+  "navDate": "2005-04-01T00:00:00+00:00",
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate03/canvas/p1",
+      "type": "Canvas",
+      "label": {
+      "none": [
+        "The Hangman"
+      ]
+    },
+      "duration": 247,
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate03/canvas/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate03/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.dasch.swiss/0807/LNLNrZjLGot-BSHop6mQkHH.mp3/file",
+                "type": "Sound",
+                "format": "audio/mp3",
+                "duration": 247
+              },
+              "target": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate03/canvas/p1/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
