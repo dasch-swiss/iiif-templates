@@ -1,0 +1,35 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate06.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "IIIF Collection from the DaSCH Service Platform (DSP)"
+    ]
+  },
+  "summary": {
+    "en": [
+      "DaSCH IIIF Resource Template - Boilerplate 6: IIIF Collection of Manifests"
+    ],
+    "de": [
+      "DaSCH IIIF Resource Template - Boilerplate 6: IIIF Collection von Manifeste"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01.json",
+      "type": "Manifest",
+      "label": "First page of a letter to Bernoulli"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02.json",
+      "type": "Manifest",
+      "label": "Letter to Bernoulli"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate03.json",
+      "type": "Manifest",
+      "label": "Groove-T-Gang's The Hangman"
+    }
+  ]
+}

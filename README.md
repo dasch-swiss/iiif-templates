@@ -12,7 +12,7 @@ On the table below are the main types of resources that could be compliant with 
 | Audio                     | `AudioRepresentation`            | Manifest | [boilerplate 3](boilerplates/boilerplate03.json)           |                                                  |
 | Video                     | `MovingImageRepresentation`      | Manifest          |                                                  |
 | 3D representation         | `DDDrepresentation`              | Manifest          |                                                  |
-| Collection of Manifests   | -                                | Collection        |                                                  |
+| Collection of Manifests   | -                                | Collection     | [boilerplate 6](boilerplates/boilerplate06.json)   |                                                  |
 | Collection of Collections | -                                | Collection        |                                                  |
 
 ### Boilerplate elements
