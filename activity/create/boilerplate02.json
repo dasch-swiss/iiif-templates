@@ -1,0 +1,15 @@
+{
+    "@context": "http://iiif.io/api/discovery/1/context.json",
+    "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/create/boilerplate02.json",
+    "type": "Create",
+    "endTime": "2022-05-17T12:00:00Z",
+    "object": {
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02.json",
+      "type": "Manifest",
+      "name": "Letter to Bernoulli"
+    },
+    "actor": {
+      "id": "https://www.wikidata.org/entity/Q113270425",
+      "type": "Organization"
+    }
+  }
