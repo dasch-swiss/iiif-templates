@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/discovery/1/context.json",
     "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/all-changes.json",
     "type": "OrderedCollection",
-    "totalItems": 3,
+    "totalItems": 4,
     "first": {
       "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/page-0.json",
       "type": "OrderedCollectionPage"
