@@ -83,4 +83,7 @@ The form for use cases 3 and 4 will have the following components:
 
 
 ## ActivityStreams Template Endpoint
-TBD
+Based on the [IIIF Change Discovery  API endpoint from the Bodleian Libraries](https://iiif.bodleian.ox.ac.uk/iiif/activity/all-changes), the following were constructed: 
+- an `OrderedCollection` ([all-changes](activity/all-changes.json))
+- a first `OrderedCollectionPage` ([page-0](activity/page-0.json))
+- the subsequent pages pointing to each `Manifest` which are all `Create` activities and can be found in this [directory](activity/create/).
