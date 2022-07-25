@@ -1,7 +1,7 @@
 # iiif-templates
 The repository is comprised of:
 1. Various templates designed to be used to serialise resources compatible with the [International Image Interoperability Framework (IIIF) Presentation API 3.0](https://iiif.io/api/presentation/3.0/) based on use cases hosted by DaSCH
-2. An ActivityStreams Template compatible with the [IIIF Change Discovery API 1.0](https://iiif.io/api/discovery/1.0/)
+2. Activity Streams Templates compatible with the [IIIF Change Discovery API 1.0](https://iiif.io/api/discovery/1.0/)
 
 ## IIIF Presentation API 3.0 Resources 
 On the table below are the main types of resources that could be compliant with the IIIF Presentation API 3.0, which [`kb:Representation` subclass](https://docs-api.dasch.swiss/02-knora-ontologies/knora-base/#representations) the content has, which type of IIIF Resource they belong to (either `Manifest` or `Collection`) as well as the boilerplate in JSON-LD.
@@ -82,7 +82,7 @@ The form for use cases 3 and 4 will have the following components:
 4. List of Manifests/Collections (`items` + `id`, `type`, `label` for each resource)
 
 
-## ActivityStreams Templates
+## Activity Streams Templates
 Based on the [IIIF Change Discovery  API endpoint from the Bodleian Libraries](https://iiif.bodleian.ox.ac.uk/iiif/activity/all-changes), the following templates were constructed: 
 - an `OrderedCollection` ([all-changes](activity/all-changes.json))
 - a first `OrderedCollectionPage` ([page-0](activity/page-0.json))
