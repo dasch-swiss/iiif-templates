@@ -1,0 +1,14 @@
+{
+    "@context": "http://iiif.io/api/discovery/1/context.json",
+    "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/all-changes.json",
+    "type": "OrderedCollection",
+    "totalItems": 3,
+    "first": {
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/page-0.json",
+      "type": "OrderedCollectionPage"
+    },
+    "last": {
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/page-0.json",
+      "type": "OrderedCollectionPage"
+    }
+  }

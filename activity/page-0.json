@@ -1,0 +1,58 @@
+{
+    "@context": "http://iiif.io/api/discovery/1/context.json",
+    "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/page-0.json",
+    "type": "OrderedCollectionPage",
+    "startIndex": 1,
+    "partOf": {
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/all-changes.json",
+      "type": "OrderedCollection"
+    },
+    "next": {
+      "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/page-1.json",
+      "type": "OrderedCollectionPage"
+    },
+    "orderedItems": [
+      {
+        "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/create/boilerplate01.json",
+        "type": "Create",
+        "endTime": "2022-05-17T12:00:00Z",
+        "object": {
+          "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate01.json",
+          "type": "Manifest",
+          "name": "First page of a letter to Bernoulli"
+        },
+        "actor": {
+          "id": "https://www.wikidata.org/entity/Q113270425",
+          "type": "Organization"
+        }
+      },
+      {
+        "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/create/boilerplate02.json",
+        "type": "Create",
+        "endTime": "2022-05-17T12:00:00Z",
+        "object": {
+          "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate02.json",
+          "type": "Manifest",
+          "name": "Letter to Bernoulli"
+        },
+        "actor": {
+          "id": "https://www.wikidata.org/entity/Q113270425",
+          "type": "Organization"
+        }
+      },
+      {
+        "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/activity/create/boilerplate03.json",
+        "type": "Create",
+        "endTime": "2022-05-23T12:00:00Z",
+        "object": {
+          "id": "https://raw.githubusercontent.com/dasch-swiss/iiif-templates/main/boilerplates/boilerplate03.json",
+          "type": "Manifest",
+          "name": "Groove-T-Gang's The Hangman"
+        },
+        "actor": {
+          "id": "https://www.wikidata.org/entity/Q113270425",
+          "type": "Organization"
+        }
+      }
+    ]
+}  
