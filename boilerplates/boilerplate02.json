@@ -137,18 +137,18 @@
               "en"
             ]
           }
-        ]
-      }
-    ], 
-    "logo": [
+        ],
+        "logo": [
           {
-            "id": "https://static.wixstatic.com/media/b4d1f5_8a7169a0d69d4df1b6b394a4819bd7ad~mv2.png/v1/fill/w_348,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DaSCH%20Logo%20mediumblue.png",
+            "id": "https://static.wixstatic.com/media/b4d1f5_94a95cd2eab74c2289cbe1bed4fd0dc2~mv2.png/v1/fill/w_382,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DaSCH_Logo_Color.png",
             "type": "Image",
             "format": "image/png",
             "height": 110,
-            "width": 348
+            "width": 382
           }
-        ],
+        ]
+      }
+    ], 
         "thumbnail": [
           {
             "id": "https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/full/80,/0/default.jpg",
