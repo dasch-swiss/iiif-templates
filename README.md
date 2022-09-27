@@ -4,7 +4,7 @@ The repository is comprised of:
 2. Activity Streams Templates compatible with the [IIIF Change Discovery API 1.0](https://iiif.io/api/discovery/1.0/)
 
 ## IIIF Presentation API 3.0 Resources 
-On the table below are the main types of resources that could be compliant with the IIIF Presentation API 3.0, which [`kb:Representation` subclass](https://docs-api.dasch.swiss/02-knora-ontologies/knora-base/#representations) the content has, which type of IIIF Resource they belong to (either `Manifest` or `Collection`) as well as the boilerplate in JSON-LD.
+On the table below are the main types of resources that could be compliant with the IIIF Presentation API 3.0, which [`kb:Representation` subclass](https://docs.dasch.swiss/2022.09.01/DSP-API/02-knora-ontologies/knora-base/#representations) the content has, which type of IIIF Resource they belong to (either `Manifest` or `Collection`) as well as the boilerplate in JSON-LD.
 | **Type**                  | **`kb:Representation` subclass of the content** | **IIIF Resource** | **Boilerplate**                                     |
 |---------------------------|----------------------------------|-------------------|--------------------------------------------------|
 | Single image              | `StillImageRepresentation`       | Manifest          | [boilerplate 1](boilerplates/boilerplate01.json) |
