@@ -43,11 +43,11 @@
       },
       "homepage": [
         {
-          "id": "https://beol.dasch.swiss/",
+          "id": "https://admin.dasch.swiss/",
           "type": "Text",
           "label": {
             "en": [
-              "The Bernoulli-Euler Online (BEOL) project is a research platform for the study of early modern mathematics and science. It aims at integrating works and correspondence of members of Bernoulli dynasty and Leonhard Euler. Currently, the BEOL platform contains three main editions: Basler Edition der Bernoulli-Briefwechsel (ongoing), Leonhard Euler's correspondence with Christian Goldbach (Leonhardi Euleri Opera Omnia IVA/IV), and a multi-layered interactive edition of Jacob Bernoulli's scientific notebook Meditationes. The platform also contains the edition of Leonhard Euler's correspondence with the Marquis de Condorcet and Turgot. BEOL is connected to the repositories of The Newton Project and the Briefportal Leibniz initiating the formation of a network of digital editions of the correspondence among the early modern natural philosophers."
+              "DaSCH Service Platform"
             ]
           },
           "format": "text/html",
