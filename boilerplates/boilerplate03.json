@@ -137,20 +137,6 @@
       ]
     }
   ], 
-      "thumbnail": [
-        {
-          "id": "https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx/full/80,/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg",
-          "service": [
-            {
-              "id": " https://iiif.dasch.swiss/0801/4VjgCwiTn8p-CTaooIqSZBO.jpx",
-              "type": "ImageService3",
-              "profile": "level2"
-            }
-          ]
-        }
-      ],
   "viewingDirection": "left-to-right",
   "navDate": "2005-04-01T00:00:00+00:00",
   "items": [
