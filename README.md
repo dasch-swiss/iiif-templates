@@ -88,3 +88,6 @@ Based on the [IIIF Change Discovery  API endpoint from the Bodleian Libraries](h
 - an `OrderedCollection` ([all-changes](activity/all-changes.json))
 - a first `OrderedCollectionPage` ([page-0](activity/page-0.json))
 - the subsequent pages pointing to each of the IIIF resource boilerplates (either `Manifest` or `Collection`) which are all `Create` activities and can be found in this [directory](activity/create/).
+
+## Python script
+See the [daschiiify repository](https://github.com/dasch-swiss/daschiiify) that leverages the [iiif-prezi3 library](https://iiif-prezi.github.io/iiif-prezi3/). 
